@@ -1,6 +1,6 @@
 {
-  "short_name": "Calculator",
-  "name": "React Calculator Example App",
+  "short_name": "Emoji Search",
+  "name": "Emoji Search Example App",
   "icons": [
     {
       "src": "favicon.ico",
