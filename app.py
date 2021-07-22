@@ -3,7 +3,7 @@ from flask import Flask, render_template
 import os
 
 # app
-static_path = os.getenv('APP_STATIC_PATH') or "/static"
+static_path = "/static"  #os.getenv('APP_STATIC_PATH') or
 app = Flask(__name__ , static_url_path= static_path)
 
 # home
