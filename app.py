@@ -23,7 +23,7 @@ def webhook():
     repo = git.Repo('/home/slimane/mysite/reacts01')
     repo.remotes.origin.pull('main')
 
-    app_loader = "/var/www/slimanemd_pythonanywhere_com_wsgi.py"
+    app_loader = "/var/www/slimane_pythonanywhere_com_wsgi.py"
     os.system("touch " + app_loader)
 
     msg = "Updated site version successfully"
