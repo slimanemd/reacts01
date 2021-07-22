@@ -1,16 +1,22 @@
 {
-  "main.css": "/counter-app/static/css/main.c605bb5c.chunk.css",
-  "main.js": "/counter-app/static/js/main.6fea9110.chunk.js",
-  "main.js.map": "/counter-app/static/js/main.6fea9110.chunk.js.map",
-  "runtime~main.js": "/counter-app/static/js/runtime~main.c63f0888.js",
-  "runtime~main.js.map": "/counter-app/static/js/runtime~main.c63f0888.js.map",
-  "static/css/2.981c190a.chunk.css": "/counter-app/static/css/2.981c190a.chunk.css",
-  "static/js/2.cdc130cc.chunk.js": "/counter-app/static/js/2.cdc130cc.chunk.js",
-  "static/js/2.cdc130cc.chunk.js.map": "/counter-app/static/js/2.cdc130cc.chunk.js.map",
-  "index.html": "/counter-app/index.html",
-  "precache-manifest.0bcdf4addb110305888813b01205d461.js": "/counter-app/precache-manifest.0bcdf4addb110305888813b01205d461.js",
-  "service-worker.js": "/counter-app/service-worker.js",
-  "static/css/2.981c190a.chunk.css.map": "/counter-app/static/css/2.981c190a.chunk.css.map",
-  "static/css/main.c605bb5c.chunk.css.map": "/counter-app/static/css/main.c605bb5c.chunk.css.map",
-  "static/media/font-awesome.css": "/counter-app/static/media/fontawesome-webfont.fee66e71.woff"
+  "files": {
+    "main.css": "/react-tutorial-solutions/static/css/main.a6b8b413.chunk.css",
+    "main.js": "/react-tutorial-solutions/static/js/main.ccdef7fd.chunk.js",
+    "main.js.map": "/react-tutorial-solutions/static/js/main.ccdef7fd.chunk.js.map",
+    "runtime-main.js": "/react-tutorial-solutions/static/js/runtime-main.d04aa953.js",
+    "runtime-main.js.map": "/react-tutorial-solutions/static/js/runtime-main.d04aa953.js.map",
+    "static/js/2.a5ca6e5b.chunk.js": "/react-tutorial-solutions/static/js/2.a5ca6e5b.chunk.js",
+    "static/js/2.a5ca6e5b.chunk.js.map": "/react-tutorial-solutions/static/js/2.a5ca6e5b.chunk.js.map",
+    "index.html": "/react-tutorial-solutions/index.html",
+    "precache-manifest.7d15b8fa2a2e17373a72ea1c2a4f0471.js": "/react-tutorial-solutions/precache-manifest.7d15b8fa2a2e17373a72ea1c2a4f0471.js",
+    "service-worker.js": "/react-tutorial-solutions/service-worker.js",
+    "static/css/main.a6b8b413.chunk.css.map": "/react-tutorial-solutions/static/css/main.a6b8b413.chunk.css.map",
+    "static/js/2.a5ca6e5b.chunk.js.LICENSE.txt": "/react-tutorial-solutions/static/js/2.a5ca6e5b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d04aa953.js",
+    "static/js/2.a5ca6e5b.chunk.js",
+    "static/css/main.a6b8b413.chunk.css",
+    "static/js/main.ccdef7fd.chunk.js"
+  ]
 }
