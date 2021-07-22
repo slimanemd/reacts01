@@ -1,21 +1,16 @@
 {
-  "files": {
-    "main.js": "/static/js/main.8c6c813e.chunk.js",
-    "main.js.map": "/static/js/main.8c6c813e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.204403d4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.204403d4.js.map",
-    "static/css/2.0624914a.chunk.css": "/static/css/2.0624914a.chunk.css",
-    "static/js/2.69fef3bc.chunk.js": "/static/js/2.69fef3bc.chunk.js",
-    "static/js/2.69fef3bc.chunk.js.map": "/static/js/2.69fef3bc.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.93ccef5b8ae106a6cc51a1d90aa6628b.js": "/precache-manifest.93ccef5b8ae106a6cc51a1d90aa6628b.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.0624914a.chunk.css.map": "/static/css/2.0624914a.chunk.css.map"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.204403d4.js",
-    "static/css/2.0624914a.chunk.css",
-    "static/js/2.69fef3bc.chunk.js",
-    "static/js/main.8c6c813e.chunk.js"
-  ]
+  "main.css": "/counter-app/static/css/main.c605bb5c.chunk.css",
+  "main.js": "/counter-app/static/js/main.6fea9110.chunk.js",
+  "main.js.map": "/counter-app/static/js/main.6fea9110.chunk.js.map",
+  "runtime~main.js": "/counter-app/static/js/runtime~main.c63f0888.js",
+  "runtime~main.js.map": "/counter-app/static/js/runtime~main.c63f0888.js.map",
+  "static/css/2.981c190a.chunk.css": "/counter-app/static/css/2.981c190a.chunk.css",
+  "static/js/2.cdc130cc.chunk.js": "/counter-app/static/js/2.cdc130cc.chunk.js",
+  "static/js/2.cdc130cc.chunk.js.map": "/counter-app/static/js/2.cdc130cc.chunk.js.map",
+  "index.html": "/counter-app/index.html",
+  "precache-manifest.0bcdf4addb110305888813b01205d461.js": "/counter-app/precache-manifest.0bcdf4addb110305888813b01205d461.js",
+  "service-worker.js": "/counter-app/service-worker.js",
+  "static/css/2.981c190a.chunk.css.map": "/counter-app/static/css/2.981c190a.chunk.css.map",
+  "static/css/main.c605bb5c.chunk.css.map": "/counter-app/static/css/main.c605bb5c.chunk.css.map",
+  "static/media/font-awesome.css": "/counter-app/static/media/fontawesome-webfont.fee66e71.woff"
 }
