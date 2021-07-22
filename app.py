@@ -1,8 +1,10 @@
 # flask
 from flask import Flask, render_template
+import os
 
 # app
-app = Flask(__name__)
+static_path = os.getenv('APP_STATIC_PATH') or "/static"
+app = Flask(__name__ , static_url_path= static_path)
 
 # home
 @app.route('/')
