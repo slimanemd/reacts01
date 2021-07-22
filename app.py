@@ -26,7 +26,7 @@ def webhook():
     app_loader = "/var/www/slimane_pythonanywhere_com_wsgi.py"
     os.system("touch " + app_loader)
 
-    msg = "Updated site version successfully"
+    msg = "Updated site version successfully ok"
     return msg, 200
 
 
