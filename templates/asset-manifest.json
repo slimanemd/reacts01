@@ -1,22 +1,17 @@
 {
   "files": {
-    "main.css": "/SnapShot/static/css/main.ba1c0e40.chunk.css",
-    "main.js": "/SnapShot/static/js/main.e8cb2bbf.chunk.js",
-    "main.js.map": "/SnapShot/static/js/main.e8cb2bbf.chunk.js.map",
-    "runtime-main.js": "/SnapShot/static/js/runtime-main.54f9bf49.js",
-    "runtime-main.js.map": "/SnapShot/static/js/runtime-main.54f9bf49.js.map",
-    "static/js/2.a82e8395.chunk.js": "/SnapShot/static/js/2.a82e8395.chunk.js",
-    "static/js/2.a82e8395.chunk.js.map": "/SnapShot/static/js/2.a82e8395.chunk.js.map",
-    "index.html": "/SnapShot/index.html",
-    "precache-manifest.b0acbc58ac0b239d5b01cc81048a9fd7.js": "/SnapShot/precache-manifest.b0acbc58ac0b239d5b01cc81048a9fd7.js",
-    "service-worker.js": "/SnapShot/service-worker.js",
-    "static/css/main.ba1c0e40.chunk.css.map": "/SnapShot/static/css/main.ba1c0e40.chunk.css.map",
-    "static/js/2.a82e8395.chunk.js.LICENSE.txt": "/SnapShot/static/js/2.a82e8395.chunk.js.LICENSE.txt"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.54f9bf49.js",
-    "static/js/2.a82e8395.chunk.js",
-    "static/css/main.ba1c0e40.chunk.css",
-    "static/js/main.e8cb2bbf.chunk.js"
-  ]
+    "main.css": "/bmi-calculator/static/css/main.160e4576.chunk.css",
+    "main.js": "/bmi-calculator/static/js/main.998f4ef6.chunk.js",
+    "main.js.map": "/bmi-calculator/static/js/main.998f4ef6.chunk.js.map",
+    "runtime~main.js": "/bmi-calculator/static/js/runtime~main.425d477f.js",
+    "runtime~main.js.map": "/bmi-calculator/static/js/runtime~main.425d477f.js.map",
+    "static/css/2.ae9e8b99.chunk.css": "/bmi-calculator/static/css/2.ae9e8b99.chunk.css",
+    "static/js/2.0e5f39ad.chunk.js": "/bmi-calculator/static/js/2.0e5f39ad.chunk.js",
+    "static/js/2.0e5f39ad.chunk.js.map": "/bmi-calculator/static/js/2.0e5f39ad.chunk.js.map",
+    "index.html": "/bmi-calculator/index.html",
+    "precache-manifest.56da18e176b3821178b82bc7862c3f76.js": "/bmi-calculator/precache-manifest.56da18e176b3821178b82bc7862c3f76.js",
+    "service-worker.js": "/bmi-calculator/service-worker.js",
+    "static/css/2.ae9e8b99.chunk.css.map": "/bmi-calculator/static/css/2.ae9e8b99.chunk.css.map",
+    "static/css/main.160e4576.chunk.css.map": "/bmi-calculator/static/css/main.160e4576.chunk.css.map"
+  }
 }
